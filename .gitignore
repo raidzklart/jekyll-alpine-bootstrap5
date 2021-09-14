@@ -3,3 +3,4 @@ _site
 
 .vercel
 Gemfile.lock
+.ruby-version
